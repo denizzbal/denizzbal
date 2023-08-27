@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Unity and C#
+
 📫 How to reach me: Mail on dennizbaloglu@gmail.com
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=denizzbal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
